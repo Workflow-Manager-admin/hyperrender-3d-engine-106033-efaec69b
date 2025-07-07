@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/hyperrender-3d-engine-106033-efaec69b/game_engine_frontend"
+}
